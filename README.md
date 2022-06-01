@@ -4,10 +4,10 @@ Hi 👋 My name is Chibuokem Obiegbulem
 Front End Developer
 -------------------
 
-* 🌍  I'm based in Port Harcourt
-* ✉️  You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
-* 🧠  I'm learning ReactJS
-* ⚡  I love sports, especially football ⚽
+* I'm based in Port Harcourt
+* You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
+* I'm learning Python
+* I love sports, especially football ⚽
 
 ### Skills
 
