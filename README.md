@@ -7,6 +7,7 @@ Fullstack Developer
 * I'm based in Port Harcourt
 * You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
 * I'm currently studying Software Engineering
+* I have an interest in Blockchain Technology
 * I love sports, especially football ⚽
 
 ### Skills
