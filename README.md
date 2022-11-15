@@ -1,12 +1,12 @@
 Hi, My name is Chibuokem Obiegbulem
 =====================================
 
-Front End Developer
+Fullstack Developer
 -------------------
 
 * I'm based in Port Harcourt
 * You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
-* I'm learning Python
+* I'm currently studying Software Engineering
 * I love sports, especially football ⚽
 
 ### Skills
