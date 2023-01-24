@@ -1,7 +1,7 @@
 Hi, My name is Chibuokem Obiegbulem
 =====================================
 
-Fullstack Developer
+Frontend Web Developer
 -------------------
 
 * I'm based in Port Harcourt
