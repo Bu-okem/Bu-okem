@@ -6,7 +6,7 @@ Frontend Web Developer
 
 * I'm based in Port Harcourt
 * You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
-* I'm currently studying Software Engineering
+* I'm currently studying Software Engineering in ALX
 * I have an interest in Blockchain Technology
 * I love sports, especially football ⚽
 
@@ -32,7 +32,7 @@ Frontend Web Developer
 <p align="left"> <a href="https://www.github.com/bu-okem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp
 <a href="https://www.linkedin.com/in/chibuokem-obiegbulem-1b9bba191" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></p>
 
-### Badges
+<!--### Badges-->
 
 <b>My GitHub Stats</b>
 
