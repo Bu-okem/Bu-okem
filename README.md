@@ -1,14 +1,12 @@
 Hi, My name is Chibuokem Obiegbulem
 =====================================
 
-Frontend Web Developer
+Web Developer
 -------------------
 
-* I'm based in Port Harcourt
-* You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
-* I'm currently studying Software Engineering in ALX
-* I have an interest in Blockchain Technology
+* I'm a graduate of Software Engineering in ALX
 * I love sports, especially football ⚽
+* You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
 
 ### Skills
 
