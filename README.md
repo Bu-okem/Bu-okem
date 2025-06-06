@@ -5,7 +5,7 @@ I'm a web developer who loves building beautiful, performant webapps.
 
 * I'm a Software Engineering graduate from ALX
 * I love sports, especially football ⚽
-* You can contact me at [Chiobiegbulem@gmail.com](mailto:Chiobiegbulem@gmail.com)
+* You can contact me at [chiobiegbulem@gmail.com](mailto:chiobiegbulem@gmail.com)
 
 Tech: React, Next.js, Vue, Nuxt.js, Tailwind, TypeScript, Python, Flask
 
