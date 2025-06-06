@@ -1,7 +1,7 @@
 Hi, I'm Chibuokem Obiegbulem
 =====================================
 
-I'm a web developer who loves building beautiful, performant webapps.
+I'm a web developer who loves building beautiful, performant web apps.
 
 * I'm a Software Engineering graduate from ALX
 * I love sports, especially football ⚽
